@@ -222,7 +222,7 @@ img {
 }
 
 .banner {
-  background: url(/assets/header_desktop.png) no-repeat center;
+  background: url(../assets/header_desktop.png) no-repeat center;
   height: 420px;
   display: flex;
   align-items: center;
@@ -249,7 +249,7 @@ img {
 }
 @media (max-width: 576px) {
   .banner {
-    background: url(/assets/header_mobile.png) no-repeat center;
+    background: url(../assets/header_mobile.png) no-repeat center;
   }
   .banner .contain .desktop {
     display: none;
@@ -516,7 +516,7 @@ img {
   align-items: center;
 }
 .chef .container .chef-img {
-  background: url(/assets/main_chef_brown.png) no-repeat right;
+  background: url(../assets/main_chef_brown.png) no-repeat right;
   width: 50%;
   height: 460px;
 }
@@ -639,7 +639,7 @@ img {
   align-items: flex-start;
 }
 .reserve .container .map {
-  background: url(/assets/Map.png) no-repeat center;
+  background: url(../assets/Map.png) no-repeat center;
   width: 50%;
   height: 386px;
 }
